@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+/* Header */
+header {
+    background: #1f2933;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Navigation */
+nav {
+    background: #374151;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 12px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #38bdf8;
+}
+
+/* Sections */
+section {
+    background: white;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: #e5e7eb;
+}
+
+/* Project cards */
+.project {
+    background: #f9fafb;
+    padding: 15px;
+    margin-top: 15px;
+    border-left: 6px solid #1f2933;
+}
+
+/* Footer */
+footer {
+    background: #1f2933;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
